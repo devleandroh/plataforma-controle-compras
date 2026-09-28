@@ -112,4 +112,4 @@ O objetivo deste repositório é demonstrar a concepção da solução, a arquit
 
 ## Licença
 
-A documentação e os artefatos demonstrativos deste repositório são disponibilizados sob a licença MIT. A licença não concede direitos sobre marcas, sistemas ou dados de terceiros mencionados como contexto técnico.
+A licença deste material deve ser definida antes de sua reutilização ou redistribuição. Referências a tecnologias e sistemas de terceiros não implicam titularidade sobre suas marcas ou produtos.
